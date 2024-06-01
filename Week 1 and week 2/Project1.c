@@ -17,7 +17,7 @@ int main(){
     if (years > 0){
         loan += (loan*interest/100*years);
         printf("Your loan plus your interest is: $%.2f\n", loan);
-        printf("Your monthly payment is $%.2f\n", loan / 12);
+        printf("Your monthly payment is $%.2f\n", loan / years / 12);
     }else{
         printf("%d Years must be a postiive interger", years);
     }
