@@ -12,5 +12,6 @@ int main()
     scanf("%lf", &num2);
 
     printf("Answer: %f\n", num1 + num2);
+    return 0;
 
 }
