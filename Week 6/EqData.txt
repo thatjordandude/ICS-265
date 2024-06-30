@@ -1,0 +1,21 @@
+Name		Date		Latitude	Longitude	Intensity	Magnitude	Felt Area (sq km)
+Long Prairie	1860-61		46.1		-94.9		VI-VII		5	
+New Prague	12/16/1860	44.6		-93.5		VI		4.7	
+St. Vincent	12/28/1880	49		-97.2		II-IV		3.6	
+New Ulm		2/5-2/12/1881	44.3		-94.5		VI locally	3.0-4.0?	
+Red Lake	2/6/17		47.9		-95		V		3.8	
+Staples		9/3/17		46.34		-94.63		VI-VII		4.3		48,000
+Bow String	12/23/28	47.5		-93.8		IV		3.8	
+Detroit Lakes	1/28/39		46.9		-96		IV		3-3.9		8,000
+Alexandria	2/15/50		46		-95.4		V		3.6		3,000
+Pipestone*	9/28/64		44		-96.4				3.4	
+Morris*		7/9/75		45.67		-96.04		VI		4.6-4.8		82,000
+Milaca*		3/5/79		45.85		-93.75				1	
+Evergreen*	4/16/79		46.78		-95.55				3.1	
+Rush City*	5/14/79		45.72		-92.99				0.1	
+Nisswa*		7/26/79		46.5		-94.33		III locally	1	
+Cottage Grove	4/24/81		44.83		-92.93		III-IV locally	3.6	
+Walker		9/27/82		47.1		-94.6		II locally	2	
+Dumont*		6/4/93		45.67		-96.29		V-VI		4.1		69,500
+Granite Falls*	2/9/94		44.86		-95.56		V		3.1		11,600
+Brandon*	4/29/11		45.986		-95.53				3.12	
