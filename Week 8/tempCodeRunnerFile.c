@@ -1,0 +1,1 @@
+if (fgets(input, 100, stdin) == "Q\n" || strcmp(input, "Quit\n"))
