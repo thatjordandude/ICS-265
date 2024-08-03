@@ -1,0 +1,12 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-08-02T22:23:01.342Z,8.1933,126.6,25.791,6.8,mww,144,18,1.507,1.06,us,us6000nhqc,2024-08-02T23:29:16.150Z,"18 km ENE of Barcelona, Philippines",earthquake,7.6,3.207,0.048,42,reviewed,us,us
+2024-07-29T20:00:52.590Z,34.9503333,-116.7866667,7.26,4.89,mw,53,57,0.1882,0.16,ci,ci40675215,2024-08-02T22:16:33.920Z,"22 km ENE of Barstow, CA",earthquake,0.14,0.72,,6,reviewed,ci,ci
+2024-07-29T05:29:05.760Z,37.4725,-112.8523333,19.57,4.47,ml,31,71,0.1214,0.16,uu,uu80076711,2024-08-02T06:39:24.970Z,"24 km S of Brian Head, Utah",earthquake,0.27,0.46,0.184848134,29,reviewed,uu,uu
+2024-07-26T14:28:29.143Z,32.766,-100.659,3.2959,5.1,ml,38,30,0.1,0.3,tx,tx2024ophu,2024-08-02T14:38:34.544Z,"17 km NNE of Hermleigh, Texas",earthquake,1.748102457,1.527934244,0.1,43,reviewed,tx,tx
+2024-07-23T03:38:42.943Z,32.766,-100.659,3.1982,4.9,ml,37,48,0.1,0.4,tx,tx2024oizv,2024-07-28T23:17:39.710Z,"17 km NNE of Hermleigh, Texas",earthquake,1.255270858,1.467416417,0.1,53,reviewed,tx,tx
+2024-07-22T19:19:34.604Z,8.2328,-82.8412,2.955,5.7,mww,94,136,1.889,1.15,us,us6000nejp,2024-07-24T17:10:14.040Z,"5 km SSE of Puerto Armuelles, Panama",earthquake,7.03,3.993,0.05,38,reviewed,us,us
+2024-07-21T02:53:48.692Z,14.6238,-89.9044,265.536,6.2,mww,141,29,0.582,1.16,us,us7000n0ka,2024-07-25T05:05:19.366Z,"7 km SW of San Pedro Pinula, Guatemala",earthquake,7.67,3.709,0.025,155,reviewed,us,us
+2024-07-19T01:50:47.675Z,-23.0467,-67.7818,117.434,7.4,mww,105,29,0.378,1.12,us,us7000n05d,2024-07-27T23:40:00.958Z,"45 km ESE of San Pedro de Atacama, Chile",earthquake,7.05,2.719,0.026,144,reviewed,us,us
+2024-07-11T15:08:47.501Z,48.8127,-128.7254,10,6.4,mww,60,68,1.869,1.18,us,us7000mykj,2024-08-02T15:18:51.653Z,"209 km WSW of Tofino, Canada",earthquake,3.85,1.902,0.041,58,reviewed,us,us
+2024-07-11T02:13:17.720Z,6.0898,123.1548,627.865,7.1,mww,401,17,2.598,0.83,us,us7000myfa,2024-07-26T23:19:49.783Z,"105 km WSW of Sangay, Philippines",earthquake,6.39,2.824,0.055,32,reviewed,us,us
+2024-07-10T04:55:41.773Z,-53.301,25.361,4,6.6,mww,106,23,18.343,0.72,us,us7000my76,2024-07-21T23:31:15.189Z,south of Africa,earthquake,10.1,1.746,0.05,38,reviewed,us,us
